@@ -1,7 +1,7 @@
 ---
 title: "Dummy Push"
 author: Jonathan 
-date: "2021-09-15"
+date: "2021-09-16"
 output: 
   html_document: 
     keep_md: yes
@@ -19,7 +19,7 @@ install.packages("tidyverse")
 ```
 ## 
 ## The downloaded binary packages are in
-## 	/var/folders/xt/41c1w7hd7bz97ycfwjj0jy2c0000gn/T//Rtmpk6vMXs/downloaded_packages
+## 	/var/folders/xt/41c1w7hd7bz97ycfwjj0jy2c0000gn/T//RtmpAAPFZM/downloaded_packages
 ```
 
 ```r
@@ -29,7 +29,7 @@ install.packages("nycflights13")
 ```
 ## 
 ## The downloaded binary packages are in
-## 	/var/folders/xt/41c1w7hd7bz97ycfwjj0jy2c0000gn/T//Rtmpk6vMXs/downloaded_packages
+## 	/var/folders/xt/41c1w7hd7bz97ycfwjj0jy2c0000gn/T//RtmpAAPFZM/downloaded_packages
 ```
 
 ## Working directory
